@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E580F2&width=435&lines=Security%3F;Machine+Learning%3F;Software+Engineering%3F;Databases%3F;DevOps%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E580F2&width=435&lines=Security%3F;Machine+Learning%3F;IoT%3F;Software+Engineering%3F;Databases%3F;DevOps%3F)](https://git.io/typing-svg)
   
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeiraDiaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
